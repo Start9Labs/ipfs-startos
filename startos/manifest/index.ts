@@ -9,12 +9,11 @@ export const manifest = setupManifest({
   upstreamRepo: 'https://github.com/ipfs/kubo',
   marketingUrl: 'https://ipfs.tech/',
   donationUrl: null,
-  docsUrls: ['https://docs.ipfs.tech/'],
   description: i18n.description,
   volumes: ['main', 'startos'],
   images: {
     ipfs: {
-      source: { dockerTag: 'ipfs/kubo:v0.40.1' },
+      source: { dockerTag: 'ipfs/kubo:v0.41.0' },
       arch: ['x86_64', 'aarch64'],
     },
   },
