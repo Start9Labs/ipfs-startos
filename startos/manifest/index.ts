@@ -5,7 +5,7 @@ export const manifest = setupManifest({
   id: 'ipfs',
   title: 'IPFS',
   license: 'MIT',
-  packageRepo: 'https://github.com/Start9Labs/ipfs-startos',
+  packageRepo: 'https://github.com/Start9-Community/ipfs-startos',
   upstreamRepo: 'https://github.com/ipfs/kubo',
   marketingUrl: 'https://ipfs.tech/',
   donationUrl: null,
