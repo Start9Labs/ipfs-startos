@@ -12,7 +12,7 @@
 [Kubo](https://github.com/ipfs/kubo) is the reference IPFS implementation. This package runs a node, publishes its three surfaces — the admin API, the content gateway, and the peer-to-peer swarm — and rewrites its configuration on every start so the gateway knows the addresses it is actually reachable at.
 
 - **Upstream repo:** <https://github.com/ipfs/kubo>
-- **Wrapper repo:** <https://github.com/Start9-Community/ipfs-startos>
+- **Wrapper repo:** <https://github.com/Start9Labs/ipfs-startos>
 
 ---
 
